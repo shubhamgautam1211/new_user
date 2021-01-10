@@ -211,6 +211,13 @@
             android:fontFamily="@font/osemibold">
         </TextView>
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="setting">
+
+        </TextView>
+
 
     </LinearLayout>
 
